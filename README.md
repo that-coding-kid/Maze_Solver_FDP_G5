@@ -4,6 +4,6 @@ There are three branches you'd need to llo for-
 1. main (You're basically in it for now)
 2. Model_Pictures
 
-Most of your necessities regarding the code and circuit fiagram is present in the master.
+Most of your necessities regarding the code and circuit diagram is present in the master.
 If you wish to see how my bot looked or worked upon completion your can go to the above mentioned branches.
 
